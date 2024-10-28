@@ -3,6 +3,8 @@ import { getCollection } from "astro:content";
 import FormattedDate from "../../components/FormattedDate.astro";
 import Layout from "../../layouts/Layout.astro";
 
+const baseURL = import.meta.env.BASE_URL;
+
 const posts = (await getCollection("writings")).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
@@ -14,7 +16,7 @@ const posts = (await getCollection("writings")).sort(
     {
       posts.map((post) => (
         <div class="post-item">
-          <a href={`/writings/${post.slug}/`}>
+          <a href={`${baseURL}writings/${post.slug}/`}>
             <h2 class="title">{post.data.title}</h2>
           </a>
           <span class="date">

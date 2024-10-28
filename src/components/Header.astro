@@ -1,10 +1,13 @@
+---
+const baseURL = import.meta.env.BASE_URL;
+---
 <nav>
   <p>
-    <a href="/">home</a>
-    <a href="/writings">writings</a>
-    <a href="/projects">projects</a>
-    <a href="/now">now</a>
-    <a href="/uses">uses</a>
+    <a href={baseURL}>home</a>
+    <a href={`${baseURL}writings`}>writings</a>
+    <a href={`${baseURL}projects`}>projects</a>
+    <a href={`${baseURL}now`}>now</a>
+    <a href={`${baseURL}uses`}>uses</a>
   </p>
 </nav>
 <style>

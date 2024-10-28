@@ -8,6 +8,7 @@ import Header from "../components/Header.astro";
 import "../styles/global.css";
 
 const { title } = Astro.props;
+const baseURL = import.meta.env.BASE_URL;
 ---
 
 <html lang="en">
@@ -18,7 +19,7 @@ const { title } = Astro.props;
     <title>{title}</title>
     <meta name="description" content="Your Description Goes Here." />
     <meta name="generator" content={Astro.generator} />
-    <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href={`${baseURL}assets/img/favicon.ico`} />
 
     <meta property="og:title" content={title} />
     <meta property="og:site_name" content="Your Name" />
