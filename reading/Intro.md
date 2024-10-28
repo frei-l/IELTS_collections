@@ -1,8 +1,4 @@
-### Reading Passage
-
-You should spend about 20 minutes on Questions 1–13 which are based on Reading Passage 1 below:
-
-**Improving Reading Speed**
+# Improving Reading Speed
 
 It is safe to say that almost anyone can double his speed of reading while maintaining equal or even higher comprehension. In other words, anyone can improve the speed with which he gets what he wants from his reading.
 

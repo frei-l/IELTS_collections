@@ -1,6 +1,4 @@
-### Reading Passage 1
-
-**The Refrigerator**
+# The Refrigerator
 
 Many of the conveniences we enjoy in our homes are the result of years of innovation by dedicated inventors. Though we take many of them for granted, some—like the refrigerator—have hugely affected the way we live our lives. Who invented the refrigerator, and how has it evolved over time?
 

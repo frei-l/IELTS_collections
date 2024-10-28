@@ -1,4 +1,4 @@
-### Reading Passage 2
+# Reading Passage 2
 
 **Alfred Nobel**  
 *The man behind the Nobel Prize*
