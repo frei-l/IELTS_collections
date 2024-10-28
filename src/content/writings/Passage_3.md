@@ -1,5 +1,5 @@
 ---
-title: Lost Giant: Mammoth
+title: Lost Giant Mammoth
 pubDate: Oct 28 2024
 ---
 # Lost Giant: Mammoth
