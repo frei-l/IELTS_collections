@@ -1,3 +1,7 @@
+---
+title: Tasmanian Tigers
+pubDate: Oct 28 2024
+---
 # Tasmanian Tigers
 
 Scientists and researchers from across the globe have devoted much of their time and research to find whether the Tasmanian Tigers still exist or not. The Tasmanian tiger, also known as the **Thylacine**, has been declared extinct 23 years back but was wiped off from the Australian mainland even much before in the **1940's**.

@@ -1,3 +1,7 @@
+---
+title: The Man Behind the Nobel Prize
+pubDate: Oct 28 2024
+---
 # Reading Passage 2
 
 **Alfred Nobel**  

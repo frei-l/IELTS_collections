@@ -1,3 +1,7 @@
+---
+title: Clarence Saunders
+pubDate: Oct 28 2024
+---
 # Clarence Saunders
 
 Clarence Saunders was an American grocer who first developed the modern retail **sales model** of self-service. His ideas have had a massive influence on the development of the modern supermarket. Clarence Saunders worked for most of his life trying to develop a truly automated store, developing Piggly Wiggly, Keedoozle, and Foodelectric store concepts.

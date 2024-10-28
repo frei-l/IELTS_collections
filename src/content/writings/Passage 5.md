@@ -1,3 +1,7 @@
+---
+title: The Lost Continent
+pubDate: Oct 28 2024
+---
 # The Lost Continent
 
 A continent the size of Europe, boasting beautiful cities, advanced technology and utopian government... subjected to a great **cataclysm** and reduced to rubble that sank beneath the sea, lost forever. The legend of Atlantis has been around for thousands of years, and whatever its **factual validity** may be, it can truthfully claim a noble heritage: its earliest **proponent** was Plato.

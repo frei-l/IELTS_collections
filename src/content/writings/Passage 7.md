@@ -1,3 +1,7 @@
+---
+title: Fraud in Science
+pubDate: Oct 28 2024
+---
 # Fraud in Science
 
 A. For many years physicists lagged way behind biologists in the **perpetration** of scientific fraud. But in 2002 they have **caught up** in spectacular style with the ambitious **opus** of Jan Henrik Schon of Bell Labs, who placed seven of his fictive works in *Nature* and nine in *Science*. Schon was even talked about as a possible Nobel Prize winner. But other researchers grew more and more suspicious until finally someone pointed out that he had published identical graphs in separate papers, supposedly on different phenomena. The laboratory **convened** an external investigation panel and Schon was found guilty of misconduct and sacked.

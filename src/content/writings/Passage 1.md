@@ -1,3 +1,7 @@
+---
+title: The Refrigerator
+pubDate: Oct 28 2024
+---
 # The Refrigerator
 
 Many of the conveniences we enjoy in our homes are the result of years of innovation by dedicated inventors. Though we take many of them for granted, some—like the refrigerator—have hugely affected the way we live our lives. Who invented the refrigerator, and how has it evolved over time?

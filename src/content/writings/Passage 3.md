@@ -1,3 +1,7 @@
+---
+title: Lost Giant: Mammoth
+pubDate: Oct 28 2024
+---
 # Lost Giant: Mammoth
 
 In 1643, workers unearthed some huge bones in a Belgian field. The naturalists who studied them were convinced they had come from a humanlike giant. Their length, after all, tallied with a biblical reference to Og, a giant king supposedly killed by Moses.
