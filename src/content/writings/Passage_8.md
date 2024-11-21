@@ -1,5 +1,5 @@
 ---
-title: Graffiti: Street Art or Crime
+title: "Graffiti: Street Art or Crime"
 pubDate: Nov 21 2024
 ---
 # Graffiti: Street Art or Crime
