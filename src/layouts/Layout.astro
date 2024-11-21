@@ -6,7 +6,7 @@ interface Props {
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
 import "../styles/global.css";
-
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 const { title } = Astro.props;
 const baseURL = import.meta.env.BASE_URL;
 ---
@@ -17,18 +17,18 @@ const baseURL = import.meta.env.BASE_URL;
     <meta name="viewport" content="width=device-width" , initial-scale="1" />
 
     <title>{title}</title>
-    <meta name="description" content="Your Description Goes Here." />
+    <meta name="description" content={SITE_DESCRIPTION} />
     <meta name="generator" content={Astro.generator} />
     <link rel="icon" type="image/x-icon" href={`${baseURL}assets/img/favicon.ico`} />
 
     <meta property="og:title" content={title} />
-    <meta property="og:site_name" content="Your Name" />
+    <meta property="og:site_name" content={SITE_TITLE} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={Astro.url} />
     <!-- <meta property="og:image" content="/assets/img/" /> -->
-    <meta property="og:image:alt" content="Your Description Goes Here." />
+    <meta property="og:image:alt" content={SITE_DESCRIPTION} />
     <meta property="og:locale" content="en" />
-    <meta property="og:description" content="Your Description Goes Here." />
+    <meta property="og:description" content={SITE_DESCRIPTION} />
   </head>
   <body>
     <Header />

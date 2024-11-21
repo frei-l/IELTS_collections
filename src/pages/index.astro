@@ -1,9 +1,9 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import "../styles/global.css";
+import { SITE_TITLE } from "../consts";
 ---
 
-<Layout title="YOUR NAME">
-  <h1>YOUR NAME</h1>
-
+<Layout title={SITE_TITLE}>
+  <h1>{SITE_TITLE}</h1>
 </Layout>
