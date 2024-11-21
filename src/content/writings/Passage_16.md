@@ -1,0 +1,22 @@
+---
+title: Morse Code
+pubDate: Nov 21 2024
+---
+# Morse Code
+
+Samuel Finley Breese Morse, inventor of several improvements to the telegraph, was born in Charlestown, Mass. on April 27, 1791. As a student at Yale College, Morse became interested in both painting and in the developing subject of electricity. After his graduation in 1810, he first concentrated on painting, which he studied in England. He would later become a well-known portrait artist.
+
+After moving to New York in 1825, he became a founder and the first president of the National Academy of Design. He also ran for office, but was defeated in both his campaigns to become New York mayor. Meanwhile, Morse turned his interest in invention, taking out three patents for pumps in 1817 with his brother Sidney Edwards Morse. It wasn’t until 1832 that he first became interested in telegraphy.
+
+That year, Morse was traveling to the United States from Europe on a ship, when he overheard a conversation about electromagnetism that inspired his idea for an electric telegraph. Though he had little training in electricity, he realised that pulses of electrical current could convey information over wires. The telegraph, a device first proposed in 1753 and first built in 1774, was an impractical machine up until that point, requiring 26 separate wires, one for each letter of the alphabet. Around that time two German engineers had invented a five-wire model, but Morse wanted to be the first to reduce the number of wires to one.
+
+Between 1832 and 1837 he developed a working model of an electric telegraph, using crude materials such as a home-made battery and old clock-work gears. He also acquired two partners to help him develop his telegraph: Leonard Gale, a professor of science at New York University, and Alfred Vail, who made available his mechanical skills and his family’s New Jersey iron works to help construct better telegraph models.
+
+
+Morse’s first telegraph device, unveiled in 1837, did use a one-wire system, which produced an EKG-like line on ticker tape. The dips in the line had to be de-coded into letters and numbers using a dictionary composed by Morse, this assuming that the pen or pencil wrote clearly, which did not always happen. By the following year he had developed an improved system, having created a dot-and-dash code that used different numbers to represent the letters of the English alphabet and the ten digits. (His assistant Vail has been credited by Franklin T. Pope—later a partner of Thomas Edison—with inventing this "dots and dashes" version.) This coding system was significantly better, as it did not require printing or decoding, but could be “sound read” by operators. In 1838, at an exhibition of his telegraph in New York, Morse transmitted ten words per minute using the Morse code that would become a standard throughout the world.
+
+In 1842, Morse convinced Congress to provide $30,000 in support of his plan to "wire" the United States. Meanwhile, Morse also solicited and received advice from a number of American and European telegraph experts, including Joseph Henry of Princeton, who had invented a working telegraph in 1831, and Louis Breguet of Paris, who had approved that his device worked over short distances, and the Federal funds he raised allowed him to string a wire from Baltimore to Washington.
+
+On May 11, 1844, Morse sent the first inter-city message. Soon thereafter, he gave the first public demonstration, in which he sent a message from the chamber of the Supreme Court to the Mount Clair train depot in Baltimore. The message itself was borrowed from the Bible by the daughter of the Commissioner of Patents and said, "What hath God wrought?" By 1846, private companies, using Morse’s patent, had built telegraph lines from Washington to Boston and Buffalo, and were pushing further. The telegraph spread across the US more quickly than had the railroads, whose routes the wires often followed. By 1854, there were 23,000 miles of telegraph wire in operation. Western Union was founded in 1851, and in 1868, the first successful trans-Atlantic cable link was established. Though Morse didn’t invent the telegraph and did not single-handedly create Morse Code, he may have been telegraphy’s greatest promoter, and undoubtedly contributed to its rapid development and adoption throughout the world.
+
+Morse died of pneumonia in New York on April 2, 1872. Late in his life, he shared his considerable wealth through grants to colleges such as Yale and Vassar, in addition to charities and artists.
